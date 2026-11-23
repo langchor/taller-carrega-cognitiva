@@ -1,0 +1,78 @@
+{
+  "actual": [
+    [
+      "Adapta el nivell de dificultat a les habilitats i coneixements previs.",
+      "Divideix la informació en unitats manejables (segmentació) per facilitar la comprensió.",
+      "Té en compte el nivell de partida dels estudiants",
+      "Ajuda a construir estructures mentals que permetin organitzar la informació.",
+      "No presenta massa elements que depenguin entre ells fins que l’alumne domini els fonaments.",
+      "Minimitza i controla bé els nombre d'objectius d'aprenentatge de l'activitat.",
+      "Repeteix la informació important.",
+      "Utiliza exemples resolts, guiats",
+      "Primer explica els components, després com es relacionen entre ells",
+      "Agrupa els coneixements en blocs diferenciats"
+    ],
+    [
+      "Evita proporcionar informació addicional no relacionada amb l'objecte d'aprenentatge",
+      "Evita temes irrellevants que no guardin relació i distreguin",
+      "Utilitza esquemes i suport visual que ajuda a la comprnsió",
+      "Presenta el contingut amb una velocitat adequada.",
+      "Estructura  l'explicació donada.",
+      "El seu discurts fa 'bots', passa d'un tema a un altre d'una forma un poc inconexa",
+      "Controla la temperatura de l'aula",
+      "Controla el renou que hi ha a l'aula",
+      "Evita proporcionar un material massa dens sense espais ni encapçalaments",
+      "Evita donar una explicació desorganitzada i redundant"
+    ],
+    [
+      "Activa els coneixements previs",
+      "Fa explícites les relacions entre coneixements previs i l'objecte d'aprenentatge.",
+      "Empra exemples concrets.",
+      "Fa preguntes que permeten assimilar millor el contingut.",
+      "Mostra com es resol un problema pas a pas abans de demanar-ne la resolució autònoma.",
+      "Fa pensar en l'estructura del tema que explica",
+      "Fa que l'alumnat expliqui amb les seves paraules el que ha après",
+      "Aporta feedback que ajuda a construir esquemes",
+      "Transfereix i aplica el coneixement a situacions reals",
+      "Fa una síntesi final del que ha explicat"
+    ]
+  ],
+  "improve": [
+    [
+      "Cal adaptar el nivell de dificultat a les habilitats i coneixements previs.",
+      "Cal dividir la informació en unitats manejables (segmentació) per facilitar la comprensió.",
+      "Cal tenir en compte el nivell de partida dels estudiants",
+      "Cal ajudar a construir estructures mentals que permetin organitzar la informació.",
+      "Cal no presentar massa elements que depenguin entre ells fins que l’alumne domini els fonaments.",
+      "Cal minimitzar i controla bé els nombre d'objectius d'aprenentatge de l'activitat.",
+      "Cal repetir la informació important.",
+      "Cal utilizar exemples resolts, guiats",
+      "Cal primer explicar els components, després com es relacionen entre ells",
+      "Cal agrupar els coneixements en blocs diferenciats"
+    ],
+    [
+      "Cal evitar proporcionar informació addicional no relacionada amb l'objecte d'aprenentatge",
+      "Cal evitar temes irrellevants que no guardin relació i distreguin",
+      "Cal utilitzar esquemes i suport visual que ajuda a la comprnsió",
+      "Cal presentar el contingut amb una velocitat adequada.",
+      "Estructura  l'explicació donada.",
+      "El seu discurts fa 'bots', passa d'un tema a un altre d'una forma un poc inconexa",
+      "Controla la temperatura de l'aula",
+      "Controla el renou que hi ha a l'aula",
+      "Evita proporcionar un material massa dens sense espais ni encapçalaments",
+      "Evita donar una explicació desorganitzada i redundant"
+    ],
+    [
+      "Cal activar els coneixements previs",
+      "Cal fer explícites les relacions entre coneixements previs i l'objecte d'aprenentatge.",
+      "Cal emprar exemples concrets.",
+      "Cal fer més preguntes que permeten assimilar millor el contingut.",
+      "Cal mostrar com es resol un problema pas a pas abans de demanar-ne la resolució autònoma.",
+      "Cal fer pensar en l'estructura del tema que explica",
+      "Cal fer que l'alumnat expliqui amb les seves paraules el que ha après",
+      "Cal aportar feedback que ajuda a construir esquemes",
+      "Cal transfeir i aplica el coneixement a situacions reals",
+      "Cal fer una síntesi final del que ha explicat"
+    ]
+  ]
+}
