@@ -7,3 +7,4 @@ export const firebaseConfig = {
   storageBucket: "taller-carrega-cognitiva.firebasestorage.app",
   messagingSenderId: "830502986827",
   appId: "1:830502986827:web:9eac690d05f861329359ce"
+    };
